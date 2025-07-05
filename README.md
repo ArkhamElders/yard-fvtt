@@ -1,6 +1,6 @@
 # YARD - Yet Another RPG that Died
 
-Indie RPG implementation based on the Universal Tabletop System for FoundryVTT, by Metamorphic Digital.
+Simple implementation for an indie RPG. Based on the Universal Tabletop System for FoundryVTT, by Metamorphic Digital.
 
 ## System Features
 
