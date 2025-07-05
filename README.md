@@ -1,6 +1,6 @@
-# Universal Tabletop System
+# YARD - Yet Another RPG that Died
 
-The Universal Tabletop System for FoundryVTT, by Metamorphic Digital.
+Indie RPG implementation based on the Universal Tabletop System for FoundryVTT, by Metamorphic Digital.
 
 ## System Features
 

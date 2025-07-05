@@ -1,7 +1,7 @@
 {
-  "id": "universal-tabletop-system",
-  "title": "Universal Tabletop System",
-  "description": "The Universal Tabletop System for FoundryVTT, by Metamorphic Digital.",
+  "id": "yard-fvtt",
+  "title": "YARD - Yet Another RPG that Died",
+  "description": "Based on the Universal Tabletop System for FoundryVTT, by Metamorphic Digital.",
   "authors": [
     {
       "name": "Joseph M.",
@@ -60,7 +60,8 @@
   "secondaryTokenAttribute": "",
   "documentTypes": {
     "Actor": {
-      "chess": {}
+      "chess": {},
+      "hero":{}
     },
     "Item": {},
     "Card": {},

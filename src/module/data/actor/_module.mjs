@@ -1,3 +1,5 @@
-import ChessData from "./chess.mjs";
 
-export {ChessData};
+import ChessData from "./chess.mjs";
+import HeroData from "./hero.mjs";
+
+export { ChessData, HeroData };

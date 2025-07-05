@@ -1,4 +1,4 @@
-export const systemID = "universal-tabletop-system";
+export const systemID = "yard-fvtt";
 /**
  * Translates repository paths to Foundry Data paths
  * @param {string} path - A path relative to the root of this repository
