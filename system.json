@@ -46,8 +46,8 @@
   "packs": [],
   "packFolders": [],
   "socket": true,
-  "manifest": "https://github.com/MetaMorphic-Digital/universal-tabletop-system/releases/latest/download/system.json",
-  "download": "AUTOMATIC",
+  "manifest": "https://raw.githubusercontent.com/ArkhamElders/yard-fvtt/refs/heads/main/system.json",
+  "download": "https://github.com/ArkhamElders/yard-fvtt/raw/refs/heads/main/yard-fvtt.zip",
   "background": "",
   "initiative": "1d20",
   "grid": {
